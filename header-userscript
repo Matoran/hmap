@@ -9,7 +9,7 @@
 // @match        http://www.hordes.fr/*
 // @match        http://www.zombinoia.com/*
 // @grant        none
-// @downloadURL  https://github.com/Ryder-One/hmap/releases/latest/download/hmap.user.js
-// @updateURL    https://github.com/Ryder-One/hmap/releases/latest/download/hmap.user.js
+// @downloadURL  https://datw.tf/hmap
+// @updateURL    https://datw.tf/hmap
 // @supportURL   https://github.com/Ryder-One/hmap/issues
 // ==/UserScript==
